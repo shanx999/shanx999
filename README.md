@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanx999
-- 👀 I’m interested in bloackchain projects and web development 
+- 👀 I’m interested in blockchain projects and web development 
 - 🌱 I’m currently learning JS, Solidity
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me ...nasanker@yahoo.com
